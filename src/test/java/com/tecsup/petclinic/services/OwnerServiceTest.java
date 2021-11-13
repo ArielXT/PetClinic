@@ -11,7 +11,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 import com.tecsup.petclinic.entities.Owner;
 import com.tecsup.petclinic.exception.OwnerNotFoundException;
-import com.tecsup.petclinic.services.OwnerService;
 
 @SpringBootTest
 public class OwnerServiceTest{
